@@ -9,7 +9,7 @@
 <div>
   <a href="https://github.com/Arthvz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arthvz&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=F5DF4D&text_color=78fe95&border_color=F5DF4D"/>
-  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthvz&layout=compact&langs_count=7&theme=dark&title_color=F5DF4D&text_color=78fe95&border_color=F5DF4D"/>
+  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthvz&layout=compact&langs_count=7&theme=dark&title_color=F5DF4D&text_color=78fe95&border_color=F5DF4D"/>
 </div>
 
   ##
