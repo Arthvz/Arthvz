@@ -1,4 +1,4 @@
-### Eae, suave?! Arthur Verdadeiro aqui! ✌
+### Eae, tudo bom?! Arthur Verdadeiro aqui! ✌
 
 - ⚡ Atualmente estudo programação!
 - 👀 Procurando uma vaga para o primeiro emprego!
