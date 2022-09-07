@@ -1,9 +1,7 @@
-### Eae, tudo bom?! Arthur Verdadeiro aqui! ✌
+### Eae, tudo bom?! Arthur aqui! ✌
 
 - ⚡ Atualmente estudo programação!
 - 👀 Procurando uma vaga para o primeiro emprego!
-- 🌱 Fun fact: Gosto de ursos e animais marinhos 🐻🐋🐢!
-
 ##
 
 <div>
@@ -20,8 +18,11 @@
   <img align="center" alt="Arthvz-CSS" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="center" alt="Arthvz-JS" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Arthvz-BTS" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img align="center" alt="Arthvz-WP" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain-wordmark.svg" />
-  <img align="center" alt="Arthvz-MySQL" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+  <img align="center" alt="Arthvz-PHP" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" alt="Arthvz-RN" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align="center" alt="Arthvz-C#" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Arthvz-SQL" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
+          
 </div>
 
   ##
@@ -32,6 +33,6 @@
   <a href="https://t.me/artverdadeiro" target="_blank" class="telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/arthur-verdadeiro-9b562b218/" target=”_blank” class="linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/_arthurvdd/" target=”_blank” class="instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/artverdadeiro" target=”_blank” class="twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.twitch.tv/arthvz" target=”_blank” class="twitch"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+  <a href="https://twitter.com/ueivizi" target=”_blank” class="twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.twitch.tv/wayvz" target=”_blank” class="twitch"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
 </div>
