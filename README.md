@@ -1,7 +1,6 @@
 ### Eae, tudo bom?! Arthur aqui! ✌
 
 - ⚡ Atualmente estudo programação!
-- 👀 Procurando uma vaga para o primeiro emprego!
 ##
 
 <div>
