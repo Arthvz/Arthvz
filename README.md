@@ -1,4 +1,4 @@
-### Eae, tudo bom?! Arthur aqui! ✌
+### Opa, tudo bom?! Arthur aqui! ✌
 
 - ⚡ Atualmente estudo programação!
 ##
