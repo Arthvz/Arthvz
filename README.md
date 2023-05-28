@@ -1,37 +1,57 @@
-### Opa, tudo bom?! Arthur aqui! ✌
+<h1 align="center">Eai, galera! ✌</h1>
 
-- ⚡ Atualmente estudo programação!
-##
 
-<div>
-  <a href="https://github.com/Arthvz">
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api?username=Arthvz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthvz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align="center">
+    <b>Bem vindos ao meu GitHub!</b><br><br>
+    <i>
+        Me chamo Arthur Verdadeiro<br>
+        Atualmente estudo Desenvolvimento de Sistemas!<br>
+        Sou bastante curioso, e sempre disposto a aprender e colaborar!<br>
+    </i><br>
+    <a href="https://www.linkedin.com/in/arthur-verdadeiro/">
+        <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    </a>
+    <a href="https://www.instagram.com/arthurvddr/">
+        <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram" alt="Instagram">
+    </a>
+    <a href="https://twitter.com/ueivizi">
+        <img src="https://img.shields.io/badge/twitter-black?style=for-the-badge&logo=twitter" alt="Twitter">
+    </a>
+    <a href="https://twitch.tv/ueivizi">
+        <img src="https://img.shields.io/badge/twitch-black?style=for-the-badge&logo=twitch" alt="Twitch">
+    </a>
+</p>
 
-  ##
-### Algumas das linguagems que eu estudo, e pratico!
-  
-<div>
-  <img align="center" alt="Arthvz-HTML" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align="center" alt="Arthvz-CSS" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img align="center" alt="Arthvz-JS" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Arthvz-BTS" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img align="center" alt="Arthvz-PHP" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Arthvz-RN" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-  <img align="center" alt="Arthvz-C#" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Arthvz-SQL" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />
-          
-</div>
+<details>
+<p align="center">
+  <a href="https://github.com/arthvz">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arthvz&theme=dark" />
+  </a>
+  <a href="https://github.com/arthvz">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthvz&hide_border=true&card_width=355&theme=dark" />
+  </a>
+  <a href="https://github.com/arthvz">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthvz&theme=dark" />
+  </a>
+  <a href="https://github.com/arthvz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthvz&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=dark" />
+  </a>
+</p>
+</details>
 
-  ##
-### Minhas redes sociais!
+### Linguagens
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/arthvz)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/arthvz)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/arthvz)
+[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/arthvz)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/arthvz)
 
-<div> 
-  <a href="https://api.whatsapp.com/send/?phone=5511963129841&text&app_absent=0" target=”_blank” class="whatsapp"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="https://t.me/artverdadeiro" target="_blank" class="telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/arthur-verdadeiro-9b562b218/" target=”_blank” class="linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/arthurvddr/" target=”_blank” class="instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://twitter.com/ueivizi" target=”_blank” class="twitter"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.twitch.tv/wayvz" target=”_blank” class="twitch"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-</div>
+### Tecnologias & Frameworks
+[![React](https://img.shields.io/badge/reactnative-black?style=for-the-badge&logo=react)](https://github.com/arthvz)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/arthvz)
+[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/arthvz)
+[![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/arthvz)
+
+### OS
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/arthvz)
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/arthvz)
