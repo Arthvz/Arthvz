@@ -1,4 +1,5 @@
-<h1 align="center">Eai, galera! ✌</h1>
+<h1 align="center">Eai, galera! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="30px">
+    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"> </h1>
 
 
 <p align="center">
