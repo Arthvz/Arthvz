@@ -6,7 +6,7 @@
     <b>Bem vindos ao meu GitHub!</b><br><br>
     <i>
         Me chamo Arthur Verdadeiro<br>
-        Atualmente sou Técnico em Desenvolvimento de Sistemas!<br> E estudo Ciências da Computação <br>
+        Atualmente sou Técnico em Desenvolvimento de Sistemas!<br>
         Sou bastante curioso, e sempre disposto a aprender e colaborar!<br>
     </i><br>
     <a href="https://www.linkedin.com/in/arthur-verdadeiro/">
