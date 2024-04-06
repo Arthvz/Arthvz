@@ -46,7 +46,8 @@
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/arthvz)
 
 ### Tecnologias & Frameworks
-[![React](https://img.shields.io/badge/reactnative-black?style=for-the-badge&logo=react)](https://github.com/arthvz)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/arthvz)
+[![React-native](https://img.shields.io/badge/reactnative-black?style=for-the-badge&logo=react)](https://github.com/arthvz)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/arthvz)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/arthvz)
 [![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://github.com/arthvz)
