@@ -35,9 +35,6 @@
   <a href="https://github.com/arthvz">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arthvz&theme=dark" />
   </a>
-  <a href="https://github.com/arthvz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthvz&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=dark" />
-  </a>
 </p>
 </details>
 
