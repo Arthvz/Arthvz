@@ -7,6 +7,7 @@
     <i>
         Me chamo Arthur Verdadeiro<br>
         Atualmente sou Técnico em Desenvolvimento de Sistemas!<br>
+        Sou estudante de Desenvolvimento de Software Multiplataforma pela Fatec de Osasco<br>
         Sou bastante curioso, e sempre disposto a aprender e colaborar!<br>
     </i><br>
     <a href="https://www.linkedin.com/in/arthur-verdadeiro/">
