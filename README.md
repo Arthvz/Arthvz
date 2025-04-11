@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/arthur-verdadeiro/">
         <img src="https://img.shields.io/badge/linkedin-black?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://www.instagram.com/ueivizi/">
+    <a href="https://www.instagram.com/arthurverdadeiro/">
         <img src="https://img.shields.io/badge/instagram-black?style=for-the-badge&logo=instagram" alt="Instagram">
     </a>
     <a href="https://twitter.com/ueivizi">
